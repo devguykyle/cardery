@@ -1,0 +1,22 @@
+{
+  "name": "cardery",
+  "version": "1.0.0",
+  "description": "link aggregator",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devguykyle/cardery.git"
+  },
+  "author": "Kyle Rhodes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devguykyle/cardery/issues"
+  },
+  "homepage": "https://github.com/devguykyle/cardery#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
